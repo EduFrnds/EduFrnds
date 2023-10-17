@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Edu 🤟.
 
-- 👨‍🎓 Engenheiro Químico como profissão e atuante durante doze anos;
-- 🔭 Atualmente busco colocação como python back-end developer (API Focused), tendo dois anos de experiência;
+- 👨‍🎓 Engenheiro Químico como formação e atuante durante doze anos;
+- 🔭 Atualmente busco recolocação como python back-end developer (API Focused), tendo dois anos de experiência;
 - 🌱 Aficionado por dados, hoje estudo engenharia de dados e desenvolvimento contínuo como back-end;
 - 😄 Pronouns: Ele/Dele.
 
@@ -23,6 +23,7 @@
   <img align="center" alt="Edu-DK" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Edu-PG" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Edu-KFK" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg">
+  <img align="center" alt="Edu-JPT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
 </div>
 
 ##
@@ -35,6 +36,6 @@
 
 ##
 
-Meu repositório é composto por projetos:
-- Análise  e Engenharia de dados;
-- Desenvolvimento Back-end.
+**Projetos no repositório:**
+- 📊 Análise  e Engenharia de dados;
+- 💻 Desenvolvimento Back-end.
