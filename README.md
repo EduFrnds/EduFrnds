@@ -36,6 +36,5 @@
 ##
 
 Meu repositório é composto por projetos:
-- Data Análise;
-- Back-end developer;
-- Engenharia de dados.
+- Análise  e Engenharia de dados;
+- Desenvolvimento Back-end.
