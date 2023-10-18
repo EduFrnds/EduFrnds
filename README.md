@@ -37,5 +37,5 @@
 ##
 
 **Projetos no repositório:**
-- 📊 Análise  e Engenharia de dados;
-- 💻 Desenvolvimento Back-end.
+- 📊 Análise, arquitetura e engenharia de dados;
+- 💻 Desenvolvimento back-end.
