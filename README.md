@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Edu 🤟.
 
 - 👨‍🎓 Engenheiro Químico como formação e atuante durante doze anos;
-- 🔭 Atualmente busco recolocação como python back-end developer (API Focused), tendo dois anos de experiência;
+- 🔭 Atuei como dev-backend por 2 anos com expertise em desenvolvimento e manutenção de API REST;
 - 🌱 Aficionado por dados, hoje estudo engenharia de dados e desenvolvimento contínuo como back-end;
+- 🔭 Atualmente trabalho como analyst engineer, criando e desenvolvendo processos para consumo dados;
 - 😄 Pronouns: Ele/Dele.
 
 ##
