@@ -1,10 +1,9 @@
 ### Olá! Eu sou o Edu 🤟.
 
 - 👨‍🎓 Engenheiro Químico como formação e atuante durante doze anos;
+- 👨‍🎓 Pós Graduado em Arquitetura e Engenharia de dados;
 - 🔭 Atuei como dev-backend por 2 anos com expertise em desenvolvimento e manutenção de API REST;
-- 🌱 Aficionado por dados, hoje estudo engenharia de dados e desenvolvimento contínuo como back-end;
-- 🔭 Atualmente trabalho como analyst engineer, criando e desenvolvendo processos para consumo dados;
-- 😄 Pronouns: Ele/Dele.
+- 🌱 Aficionado por dados e processos acerca deles.
 
 ##
 **Back-end**
